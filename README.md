@@ -2,6 +2,7 @@
 - 👀 I’m interested in Software Engineer, Cyber Security and Software quality
 - 🌱 I’m currently studying Information Technology, in a Federal University in Brazil
 - 👨‍💻 I'm interested in any kind of Programmingn Languages and currently studying C
+- 🛬 When I finish the college, I may apply for some jobs in the USA and Canada
 - 📫 You can reach me on Instagram: @fellipe_roq; or on Outlook: Fellipe_roq@hotmail.com
 
 <!---
